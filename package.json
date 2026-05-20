@@ -1,0 +1,21 @@
+{
+  "name": "graphql-transglobal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "@as-integrations/express4": "^1.1.2",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
+    "graphql": "^16.14.0"
+  }
+}
